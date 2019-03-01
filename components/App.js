@@ -22,7 +22,7 @@ var contacts = [
   var contactForm = {
     firstName: '',
     lastName: '',
-    email: '',
+    email: ''
   };
   
   var App = React.createClass({
