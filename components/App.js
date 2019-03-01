@@ -30,7 +30,7 @@ var contacts = [
       return (
         <div className={'app'}>
           <Contactform contact={contactForm}></Contactform>
-          <Contact items={contacts}></Contact>
+          <Contacts items={contacts}></Contacts>
         </div>
       );
     }
