@@ -1,0 +1,24 @@
+.contactForm {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    padding: 10px 20px;
+}
+
+button {
+    cursor: pointer;
+}
+
+.contactList {
+    margin: 0;
+    padding: 10px;
+}
+
+.contactItem{
+    margin: 20px 0;
+    display:flex;
+    justify-content: space-between;
+    border-bottom: 1px #ddd dashed;
+}
